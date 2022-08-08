@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/chrome-extension_link-to-text-fragment_nc" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/extensions/link-to-text-fragment" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/link-to-text-fragment" vcs="Git" />
+  </component>
+</project>
